@@ -1,0 +1,7 @@
+flask
+requests
+playwright
+pandas
+PyMuPDF
+matplotlib
+python-dotenv

@@ -1,0 +1,5 @@
+.env
+venv
+app.log
+__pycache__/
+fake_quiz.html
